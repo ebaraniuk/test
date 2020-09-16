@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7f947578-973e-4dde-8f0c-963b2fd2d63d" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TestApp.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TestApp.py" beforeDir="false" afterPath="$PROJECT_DIR$/TestApp.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,8 +24,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/TestApp.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" selection-start-line="8" selection-end-line="8" />
+            <state relative-caret-position="420">
+              <caret line="28" column="12" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="12" />
               <folding>
                 <element signature="e#0#13#0" expanded="true" />
               </folding>
@@ -55,7 +52,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="48" />
     <option name="y" value="23" />
     <option name="width" value="1280" />
@@ -130,12 +127,12 @@
       <updated>1600178972035</updated>
       <workItem from="1600178973414" duration="12000" />
       <workItem from="1600179390646" duration="1510000" />
-      <workItem from="1600268107451" duration="74000" />
+      <workItem from="1600268107451" duration="214000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1596000" />
+    <option name="totallyTimeSpent" value="1736000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="48" y="23" width="1280" height="777" extended-state="0" />
@@ -180,8 +177,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/TestApp.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        <state relative-caret-position="420">
+          <caret line="28" column="12" selection-start-line="28" selection-start-column="12" selection-end-line="28" selection-end-column="12" />
           <folding>
             <element signature="e#0#13#0" expanded="true" />
           </folding>
